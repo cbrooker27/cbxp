@@ -1,6 +1,7 @@
 [![Version](https://img.shields.io/pypi/v/cbxp?label=alpha)](https://pypi.org/project/cbxp/#history)
 [![Python Versions](https://img.shields.io/pypi/pyversions/cbxp)](https://pypi.org/project/cbxp/)
 [![Downloads](https://img.shields.io/pypi/dm/cbxp)](https://pypistats.org/packages/cbxp)
+[![Hits](https://hits.sh/github.com/cbrooker27/cbxp.svg)](https://hits.sh/github.com/cbrooker27/cbxp/)
 
 ![CBXP Logo](https://raw.githubusercontent.com/ambitus/cbxp/refs/heads/main/logo.svg)
 
